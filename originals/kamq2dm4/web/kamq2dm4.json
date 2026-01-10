@@ -1,0 +1,195 @@
+{
+  "schema_version": "1.2",
+  "identity": {
+    "id": "kamq2dm4",
+    "slug": "kamq2dm4",
+    "root": "kamq2dm4",
+    "layout": "map",
+    "url_root": "kamq2dm4/"
+  },
+  "content": {
+    "type": "map",
+    "game": {
+      "id": "quake2",
+      "title": "Quake II",
+      "rerelease": false
+    }
+  },
+  "contributors": {
+    "authors": [
+      {
+        "id": "corey-kamarov-peters",
+        "name": "Corey \"Kamarov\" Peters"
+      }
+    ],
+    "author_ids": [
+      "corey-kamarov-peters"
+    ]
+  },
+  "map_info": {
+    "file_name": "kamq2dm4.bsp",
+    "map_name": "kamq2dm4",
+    "long_name": "Ubiquity",
+    "authors": [
+      "Corey \"Kamarov\" Peters"
+    ],
+    "release_year": 2000,
+    "release_date": "2000-09-04T07:12:30",
+    "description": null,
+    "release_date_utc": "2000-09-04T06:12:30Z",
+    "release_date_source": "bsp_mtime"
+  },
+  "gameplay": {
+    "recommended_players": {
+      "min": 2,
+      "max": 8
+    },
+    "game_modes": {
+      "deathmatch": true,
+      "team_deathmatch": false,
+      "ctf": false,
+      "campaign": false,
+      "coop": false
+    },
+    "bot_support": {
+      "aas": false,
+      "routes": false
+    }
+  },
+  "assets": {
+    "custom_env": false,
+    "custom_sounds": false,
+    "custom_textures": false,
+    "env_name": null,
+    "custom_sound_count": 0,
+    "custom_texture_count": 0
+  },
+  "entities": {
+    "spawn_points": {
+      "deathmatch": 6,
+      "team_red": 0,
+      "team_blue": 0,
+      "campaign_start": 1,
+      "coop": 0,
+      "intermission": 0
+    },
+    "objectives": {
+      "red_flag": 0,
+      "blue_flag": 0,
+      "changelevel": 0,
+      "secret": 0
+    },
+    "weapons": {
+      "blaster": 0,
+      "shotgun": 1,
+      "super_shotgun": 1,
+      "machinegun": 2,
+      "chaingun": 0,
+      "grenade_launcher": 1,
+      "rocket_launcher": 1,
+      "hyperblaster": 1,
+      "railgun": 1,
+      "bfg10k": 0
+    },
+    "powerups": {
+      "quad_damage": 1,
+      "invulnerability": 0,
+      "power_shield": 0,
+      "power_screen": 0,
+      "invisibility": 0,
+      "silencer": 0,
+      "rebreather": 0,
+      "enviro_suit": 0,
+      "bandolier": 0,
+      "pack": 0,
+      "adrenaline": 1,
+      "ancient_head": 0,
+      "mega_health": 0
+    },
+    "monsters": {
+      "has_monsters": false,
+      "total_count": 0
+    },
+    "all_entities": {
+      "worldspawn": 1,
+      "info_player_start": 1,
+      "weapon_rocketlauncher": 1,
+      "item_armor_combat": 3,
+      "light": 84,
+      "func_plat": 1,
+      "weapon_railgun": 1,
+      "ammo_slugs": 3,
+      "info_null": 23,
+      "weapon_supershotgun": 1,
+      "ammo_shells": 4,
+      "info_player_deathmatch": 6,
+      "item_quad": 1,
+      "weapon_hyperblaster": 1,
+      "ammo_cells": 6,
+      "item_adrenaline": 1,
+      "item_health": 9,
+      "target_speaker": 19,
+      "weapon_machinegun": 2,
+      "ammo_bullets": 8,
+      "weapon_grenadelauncher": 1,
+      "ammo_grenades": 4,
+      "item_armor_shard": 11,
+      "ammo_rockets": 5,
+      "item_health_large": 5,
+      "item_health_small": 12,
+      "weapon_shotgun": 1,
+      "weapon_chaingun": 1
+    }
+  },
+  "technical": {
+    "bsp_version": 38,
+    "has_ent_file": false,
+    "has_map_file": false,
+    "has_demos": false,
+    "file_size_bytes": 1293032,
+    "checksum_md5": "950636a5c5c2b39a2c2563bd02cd8939"
+  },
+  "web": {
+    "has_readme": true,
+    "has_screenshots": false,
+    "screenshot_count": 0
+  },
+  "paths": {
+    "root": "kamq2dm4/",
+    "web": "kamq2dm4/web/",
+    "metadata": "kamq2dm4/web/kamq2dm4.json",
+    "pack": "kamq2dm4/pack/",
+    "maps_dir": "kamq2dm4/pack/maps/",
+    "docs_dir": "kamq2dm4/pack/docs/",
+    "demos_dir": "kamq2dm4/pack/demos/",
+    "routes_dir": "kamq2dm4/pack/routes/",
+    "screenshots_dir": "kamq2dm4/web/screenshots/",
+    "bsp": "kamq2dm4/pack/maps/kamq2dm4.bsp",
+    "readme": "kamq2dm4/pack/docs/kamq2dm4-readme.txt"
+  },
+  "urls": {
+    "root": "kamq2dm4/",
+    "web": "kamq2dm4/web/",
+    "metadata": "kamq2dm4/web/kamq2dm4.json",
+    "pack": "kamq2dm4/pack/",
+    "maps_dir": "kamq2dm4/pack/maps/",
+    "docs_dir": "kamq2dm4/pack/docs/",
+    "demos_dir": "kamq2dm4/pack/demos/",
+    "routes_dir": "kamq2dm4/pack/routes/",
+    "screenshots_dir": "kamq2dm4/web/screenshots/",
+    "bsp": "kamq2dm4/pack/maps/kamq2dm4.bsp",
+    "readme": "kamq2dm4/pack/docs/kamq2dm4-readme.txt"
+  },
+  "distribution": {
+    "bundle": {
+      "format": "zip",
+      "source_dir": "kamq2dm4/pack",
+      "filename": "kamq2dm4.zip"
+    }
+  },
+  "pack": {
+    "name": null,
+    "root": null,
+    "metadata": null
+  }
+}

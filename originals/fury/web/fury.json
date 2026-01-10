@@ -1,0 +1,197 @@
+{
+  "schema_version": "1.2",
+  "identity": {
+    "id": "fury",
+    "slug": "fury",
+    "root": "fury",
+    "layout": "map",
+    "url_root": "fury/"
+  },
+  "content": {
+    "type": "map",
+    "game": {
+      "id": "quake2",
+      "title": "Quake II",
+      "rerelease": false
+    }
+  },
+  "contributors": {
+    "authors": [
+      {
+        "id": "sten-ztn-uusvali",
+        "name": "Sten \"ztn\" Uusvali"
+      }
+    ],
+    "author_ids": [
+      "sten-ztn-uusvali"
+    ]
+  },
+  "map_info": {
+    "file_name": "fury.bsp",
+    "map_name": "fury",
+    "long_name": "Prior, Explicit Written Consent",
+    "authors": [
+      "Sten \"ztn\" Uusvali"
+    ],
+    "release_year": 1998,
+    "release_date": "1998-05-15T05:30:40",
+    "description": null,
+    "release_date_utc": "1998-05-15T04:30:40Z",
+    "release_date_source": "bsp_mtime"
+  },
+  "gameplay": {
+    "recommended_players": {
+      "min": 3,
+      "max": 7
+    },
+    "game_modes": {
+      "deathmatch": true,
+      "team_deathmatch": false,
+      "ctf": false,
+      "campaign": false,
+      "coop": false
+    },
+    "bot_support": {
+      "aas": false,
+      "routes": true
+    }
+  },
+  "assets": {
+    "custom_env": false,
+    "custom_sounds": false,
+    "custom_textures": false,
+    "env_name": null,
+    "custom_sound_count": 0,
+    "custom_texture_count": 0
+  },
+  "entities": {
+    "spawn_points": {
+      "deathmatch": 7,
+      "team_red": 0,
+      "team_blue": 0,
+      "campaign_start": 1,
+      "coop": 0,
+      "intermission": 2
+    },
+    "objectives": {
+      "red_flag": 0,
+      "blue_flag": 0,
+      "changelevel": 0,
+      "secret": 0
+    },
+    "weapons": {
+      "blaster": 0,
+      "shotgun": 0,
+      "super_shotgun": 2,
+      "machinegun": 1,
+      "chaingun": 0,
+      "grenade_launcher": 1,
+      "rocket_launcher": 1,
+      "hyperblaster": 0,
+      "railgun": 1,
+      "bfg10k": 0
+    },
+    "powerups": {
+      "quad_damage": 1,
+      "invulnerability": 0,
+      "power_shield": 0,
+      "power_screen": 0,
+      "invisibility": 0,
+      "silencer": 0,
+      "rebreather": 0,
+      "enviro_suit": 0,
+      "bandolier": 0,
+      "pack": 0,
+      "adrenaline": 1,
+      "ancient_head": 0,
+      "mega_health": 1
+    },
+    "monsters": {
+      "has_monsters": false,
+      "total_count": 0
+    },
+    "all_entities": {
+      "worldspawn": 1,
+      "info_player_start": 1,
+      "light": 36,
+      "func_plat": 2,
+      "func_wall": 11,
+      "item_health_mega": 1,
+      "weapon_railgun": 1,
+      "item_health_large": 2,
+      "item_quad": 1,
+      "weapon_grenadelauncher": 1,
+      "ammo_grenades": 4,
+      "weapon_supershotgun": 2,
+      "ammo_shells": 3,
+      "weapon_chaingun": 1,
+      "ammo_bullets": 5,
+      "ammo_slugs": 2,
+      "weapon_rocketlauncher": 1,
+      "ammo_rockets": 1,
+      "item_armor_combat": 1,
+      "item_adrenaline": 1,
+      "item_armor_jacket": 1,
+      "item_armor_body": 1,
+      "item_armor_shard": 13,
+      "item_health": 5,
+      "item_health_small": 6,
+      "info_player_deathmatch": 7,
+      "weapon_machinegun": 1,
+      "info_player_intermission": 2,
+      "target_speaker": 5,
+      "func_timer": 1
+    }
+  },
+  "technical": {
+    "bsp_version": 38,
+    "has_ent_file": false,
+    "has_map_file": false,
+    "has_demos": false,
+    "file_size_bytes": 482668,
+    "checksum_md5": "3396b160c089b37a293079bc73bebc6b"
+  },
+  "web": {
+    "has_readme": true,
+    "has_screenshots": false,
+    "screenshot_count": 0
+  },
+  "paths": {
+    "root": "fury/",
+    "web": "fury/web/",
+    "metadata": "fury/web/fury.json",
+    "pack": "fury/pack/",
+    "maps_dir": "fury/pack/maps/",
+    "docs_dir": "fury/pack/docs/",
+    "demos_dir": "fury/pack/demos/",
+    "routes_dir": "fury/pack/routes/",
+    "screenshots_dir": "fury/web/screenshots/",
+    "bsp": "fury/pack/maps/fury.bsp",
+    "readme": "fury/pack/docs/fury-readme.txt"
+  },
+  "urls": {
+    "root": "fury/",
+    "web": "fury/web/",
+    "metadata": "fury/web/fury.json",
+    "pack": "fury/pack/",
+    "maps_dir": "fury/pack/maps/",
+    "docs_dir": "fury/pack/docs/",
+    "demos_dir": "fury/pack/demos/",
+    "routes_dir": "fury/pack/routes/",
+    "screenshots_dir": "fury/web/screenshots/",
+    "bsp": "fury/pack/maps/fury.bsp",
+    "readme": "fury/pack/docs/fury-readme.txt"
+  },
+  "distribution": {
+    "bundle": {
+      "format": "zip",
+      "source_dir": "fury/pack",
+      "filename": "fury.zip"
+    }
+  },
+  "pack": {
+    "name": null,
+    "root": null,
+    "metadata": null
+  }
+}

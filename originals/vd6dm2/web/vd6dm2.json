@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.2",
+  "identity": {
+    "id": "vd6dm2",
+    "slug": "vd6dm2",
+    "root": "vd6dm2",
+    "layout": "map",
+    "url_root": "vd6dm2/"
+  },
+  "content": {
+    "type": "map",
+    "game": {
+      "id": "quake2",
+      "title": "Quake II",
+      "rerelease": false
+    }
+  },
+  "contributors": {
+    "authors": [
+      {
+        "id": "voodoo6",
+        "name": "\"VooDoo6-\""
+      }
+    ],
+    "author_ids": [
+      "voodoo6"
+    ]
+  },
+  "map_info": {
+    "file_name": "vd6dm2.bsp",
+    "map_name": "vd6dm2",
+    "long_name": "Negative Impulse",
+    "authors": [
+      "\"VooDoo6-\""
+    ],
+    "release_year": 2004,
+    "release_date": "2004-07-27T10:39:12",
+    "description": null,
+    "release_date_utc": "2004-07-27T09:39:12Z",
+    "release_date_source": "bsp_mtime"
+  },
+  "gameplay": {
+    "recommended_players": {
+      "min": 3,
+      "max": 7
+    },
+    "game_modes": {
+      "deathmatch": true,
+      "team_deathmatch": false,
+      "ctf": false,
+      "campaign": false,
+      "coop": false
+    },
+    "bot_support": {
+      "aas": false,
+      "routes": false
+    }
+  },
+  "assets": {
+    "custom_env": false,
+    "custom_sounds": false,
+    "custom_textures": false,
+    "env_name": null,
+    "custom_sound_count": 0,
+    "custom_texture_count": 0
+  },
+  "entities": {
+    "spawn_points": {
+      "deathmatch": 7,
+      "team_red": 0,
+      "team_blue": 0,
+      "campaign_start": 1,
+      "coop": 0,
+      "intermission": 1
+    },
+    "objectives": {
+      "red_flag": 0,
+      "blue_flag": 0,
+      "changelevel": 0,
+      "secret": 0
+    },
+    "weapons": {
+      "blaster": 0,
+      "shotgun": 0,
+      "super_shotgun": 2,
+      "machinegun": 0,
+      "chaingun": 0,
+      "grenade_launcher": 1,
+      "rocket_launcher": 1,
+      "hyperblaster": 1,
+      "railgun": 1,
+      "bfg10k": 0
+    },
+    "powerups": {
+      "quad_damage": 1,
+      "invulnerability": 0,
+      "power_shield": 0,
+      "power_screen": 0,
+      "invisibility": 0,
+      "silencer": 0,
+      "rebreather": 0,
+      "enviro_suit": 0,
+      "bandolier": 0,
+      "pack": 1,
+      "adrenaline": 1,
+      "ancient_head": 0,
+      "mega_health": 1
+    },
+    "monsters": {
+      "has_monsters": false,
+      "total_count": 0
+    },
+    "all_entities": {
+      "worldspawn": 1,
+      "item_health_small": 8,
+      "item_armor_shard": 7,
+      "info_null": 7,
+      "light": 271,
+      "item_health": 12,
+      "item_health_large": 1,
+      "info_player_intermission": 1,
+      "info_player_deathmatch": 7,
+      "item_quad": 1,
+      "func_plat": 1,
+      "ammo_bullets": 5,
+      "target_speaker": 27,
+      "item_armor_jacket": 2,
+      "func_rotating": 1,
+      "ammo_cells": 3,
+      "ammo_slugs": 2,
+      "weapon_railgun": 1,
+      "weapon_chaingun": 1,
+      "item_pack": 1,
+      "item_adrenaline": 1,
+      "weapon_supershotgun": 2,
+      "ammo_shells": 2,
+      "ammo_rockets": 4,
+      "weapon_rocketlauncher": 1,
+      "misc_teleporter": 4,
+      "ammo_grenades": 4,
+      "misc_teleporter_dest": 1,
+      "weapon_hyperblaster": 1,
+      "item_health_mega": 1,
+      "item_armor_combat": 2,
+      "weapon_grenadelauncher": 1,
+      "info_player_start": 1
+    }
+  },
+  "technical": {
+    "bsp_version": 38,
+    "has_ent_file": false,
+    "has_map_file": false,
+    "has_demos": false,
+    "file_size_bytes": 1586960,
+    "checksum_md5": "5e10b7e23c426f33ea91d4a008f60d23"
+  },
+  "web": {
+    "has_readme": false,
+    "has_screenshots": false,
+    "screenshot_count": 0
+  },
+  "paths": {
+    "root": "vd6dm2/",
+    "web": "vd6dm2/web/",
+    "metadata": "vd6dm2/web/vd6dm2.json",
+    "pack": "vd6dm2/pack/",
+    "maps_dir": "vd6dm2/pack/maps/",
+    "docs_dir": "vd6dm2/pack/docs/",
+    "demos_dir": "vd6dm2/pack/demos/",
+    "routes_dir": "vd6dm2/pack/routes/",
+    "screenshots_dir": "vd6dm2/web/screenshots/",
+    "bsp": "vd6dm2/pack/maps/vd6dm2.bsp",
+    "readme": null
+  },
+  "urls": {
+    "root": "vd6dm2/",
+    "web": "vd6dm2/web/",
+    "metadata": "vd6dm2/web/vd6dm2.json",
+    "pack": "vd6dm2/pack/",
+    "maps_dir": "vd6dm2/pack/maps/",
+    "docs_dir": "vd6dm2/pack/docs/",
+    "demos_dir": "vd6dm2/pack/demos/",
+    "routes_dir": "vd6dm2/pack/routes/",
+    "screenshots_dir": "vd6dm2/web/screenshots/",
+    "bsp": "vd6dm2/pack/maps/vd6dm2.bsp",
+    "readme": null
+  },
+  "distribution": {
+    "bundle": {
+      "format": "zip",
+      "source_dir": "vd6dm2/pack",
+      "filename": "vd6dm2.zip"
+    }
+  },
+  "pack": {
+    "name": null,
+    "root": null,
+    "metadata": null
+  }
+}

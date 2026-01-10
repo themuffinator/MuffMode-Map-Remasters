@@ -1,0 +1,197 @@
+{
+  "schema_version": "1.2",
+  "identity": {
+    "id": "ztn2dm1",
+    "slug": "ztn2dm1",
+    "root": "ztn2dm1",
+    "layout": "map",
+    "url_root": "ztn2dm1/"
+  },
+  "content": {
+    "type": "map",
+    "game": {
+      "id": "quake2",
+      "title": "Quake II",
+      "rerelease": false
+    }
+  },
+  "contributors": {
+    "authors": [
+      {
+        "id": "sten-ztn-uusvali",
+        "name": "Sten \"ztn\" Uusvali"
+      }
+    ],
+    "author_ids": [
+      "sten-ztn-uusvali"
+    ]
+  },
+  "map_info": {
+    "file_name": "ztn2dm1.bsp",
+    "map_name": "ztn2dm1",
+    "long_name": "Painkiller",
+    "authors": [
+      "Sten \"ztn\" Uusvali"
+    ],
+    "release_year": 1998,
+    "release_date": "1998-01-22T21:22:22",
+    "description": null,
+    "release_date_utc": "1998-01-22T21:22:22Z",
+    "release_date_source": "bsp_mtime"
+  },
+  "gameplay": {
+    "recommended_players": {
+      "min": 2,
+      "max": 5
+    },
+    "game_modes": {
+      "deathmatch": true,
+      "team_deathmatch": false,
+      "ctf": false,
+      "campaign": false,
+      "coop": false
+    },
+    "bot_support": {
+      "aas": false,
+      "routes": false
+    }
+  },
+  "assets": {
+    "custom_env": false,
+    "custom_sounds": false,
+    "custom_textures": false,
+    "env_name": null,
+    "custom_sound_count": 0,
+    "custom_texture_count": 0
+  },
+  "entities": {
+    "spawn_points": {
+      "deathmatch": 5,
+      "team_red": 0,
+      "team_blue": 0,
+      "campaign_start": 1,
+      "coop": 0,
+      "intermission": 2
+    },
+    "objectives": {
+      "red_flag": 0,
+      "blue_flag": 0,
+      "changelevel": 0,
+      "secret": 0
+    },
+    "weapons": {
+      "blaster": 0,
+      "shotgun": 0,
+      "super_shotgun": 1,
+      "machinegun": 1,
+      "chaingun": 0,
+      "grenade_launcher": 1,
+      "rocket_launcher": 1,
+      "hyperblaster": 1,
+      "railgun": 1,
+      "bfg10k": 0
+    },
+    "powerups": {
+      "quad_damage": 0,
+      "invulnerability": 0,
+      "power_shield": 0,
+      "power_screen": 0,
+      "invisibility": 0,
+      "silencer": 0,
+      "rebreather": 0,
+      "enviro_suit": 0,
+      "bandolier": 0,
+      "pack": 0,
+      "adrenaline": 0,
+      "ancient_head": 0,
+      "mega_health": 0
+    },
+    "monsters": {
+      "has_monsters": false,
+      "total_count": 0
+    },
+    "all_entities": {
+      "worldspawn": 1,
+      "info_player_start": 1,
+      "info_player_deathmatch": 5,
+      "info_player_intermission": 2,
+      "light": 49,
+      "misc_teleporter": 2,
+      "misc_teleporter_dest": 2,
+      "weapon_rocketlauncher": 1,
+      "item_health_large": 1,
+      "item_armor_body": 1,
+      "item_armor_combat": 1,
+      "item_health": 4,
+      "weapon_railgun": 1,
+      "ammo_slugs": 1,
+      "weapon_chaingun": 1,
+      "ammo_bullets": 3,
+      "weapon_grenadelauncher": 1,
+      "ammo_grenades": 2,
+      "weapon_supershotgun": 1,
+      "ammo_shells": 1,
+      "item_armor_jacket": 1,
+      "weapon_hyperblaster": 1,
+      "ammo_cells": 1,
+      "weapon_machinegun": 1,
+      "ammo_rockets": 1,
+      "item_armor_shard": 5,
+      "item_health_small": 8,
+      "target_speaker": 6,
+      "func_plat": 2,
+      "func_timer": 2
+    }
+  },
+  "technical": {
+    "bsp_version": 38,
+    "has_ent_file": false,
+    "has_map_file": false,
+    "has_demos": false,
+    "file_size_bytes": 361376,
+    "checksum_md5": "460b14d4dece806c1303d299c110eff9"
+  },
+  "web": {
+    "has_readme": true,
+    "has_screenshots": false,
+    "screenshot_count": 0
+  },
+  "paths": {
+    "root": "ztn2dm1/",
+    "web": "ztn2dm1/web/",
+    "metadata": "ztn2dm1/web/ztn2dm1.json",
+    "pack": "ztn2dm1/pack/",
+    "maps_dir": "ztn2dm1/pack/maps/",
+    "docs_dir": "ztn2dm1/pack/docs/",
+    "demos_dir": "ztn2dm1/pack/demos/",
+    "routes_dir": "ztn2dm1/pack/routes/",
+    "screenshots_dir": "ztn2dm1/web/screenshots/",
+    "bsp": "ztn2dm1/pack/maps/ztn2dm1.bsp",
+    "readme": "ztn2dm1/pack/docs/ztn2dm1-readme.txt"
+  },
+  "urls": {
+    "root": "ztn2dm1/",
+    "web": "ztn2dm1/web/",
+    "metadata": "ztn2dm1/web/ztn2dm1.json",
+    "pack": "ztn2dm1/pack/",
+    "maps_dir": "ztn2dm1/pack/maps/",
+    "docs_dir": "ztn2dm1/pack/docs/",
+    "demos_dir": "ztn2dm1/pack/demos/",
+    "routes_dir": "ztn2dm1/pack/routes/",
+    "screenshots_dir": "ztn2dm1/web/screenshots/",
+    "bsp": "ztn2dm1/pack/maps/ztn2dm1.bsp",
+    "readme": "ztn2dm1/pack/docs/ztn2dm1-readme.txt"
+  },
+  "distribution": {
+    "bundle": {
+      "format": "zip",
+      "source_dir": "ztn2dm1/pack",
+      "filename": "ztn2dm1.zip"
+    }
+  },
+  "pack": {
+    "name": null,
+    "root": null,
+    "metadata": null
+  }
+}

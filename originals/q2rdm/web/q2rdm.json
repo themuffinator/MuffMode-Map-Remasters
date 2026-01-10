@@ -1,0 +1,176 @@
+{
+  "schema_version": "1.2",
+  "identity": {
+    "id": "q2rdm",
+    "slug": "q2rdm",
+    "root": "q2rdm",
+    "layout": "pack",
+    "url_root": "q2rdm/"
+  },
+  "content": {
+    "type": "pack",
+    "primary_content_type": "map",
+    "game": {
+      "id": "quake2",
+      "title": "Quake II",
+      "rerelease": false
+    }
+  },
+  "pack_info": {
+    "pack_name": "q2rdm",
+    "map_count": 15,
+    "available_map_count": 0,
+    "maps": [
+      {
+        "map_name": "q2rdm1",
+        "map_root": "q2rdm1",
+        "metadata": "q2rdm1/web/q2rdm1.json",
+        "slug": "q2rdm1",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm10",
+        "map_root": "q2rdm10",
+        "metadata": "q2rdm10/web/q2rdm10.json",
+        "slug": "q2rdm10",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm11",
+        "map_root": "q2rdm11",
+        "metadata": "q2rdm11/web/q2rdm11.json",
+        "slug": "q2rdm11",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm12",
+        "map_root": "q2rdm12",
+        "metadata": "q2rdm12/web/q2rdm12.json",
+        "slug": "q2rdm12",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm13",
+        "map_root": "q2rdm13",
+        "metadata": "q2rdm13/web/q2rdm13.json",
+        "slug": "q2rdm13",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm14",
+        "map_root": "q2rdm14",
+        "metadata": "q2rdm14/web/q2rdm14.json",
+        "slug": "q2rdm14",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm15",
+        "map_root": "q2rdm15",
+        "metadata": "q2rdm15/web/q2rdm15.json",
+        "slug": "q2rdm15",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm2",
+        "map_root": "q2rdm2",
+        "metadata": "q2rdm2/web/q2rdm2.json",
+        "slug": "q2rdm2",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm3",
+        "map_root": "q2rdm3",
+        "metadata": "q2rdm3/web/q2rdm3.json",
+        "slug": "q2rdm3",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm4",
+        "map_root": "q2rdm4",
+        "metadata": "q2rdm4/web/q2rdm4.json",
+        "slug": "q2rdm4",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm5",
+        "map_root": "q2rdm5",
+        "metadata": "q2rdm5/web/q2rdm5.json",
+        "slug": "q2rdm5",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm6",
+        "map_root": "q2rdm6",
+        "metadata": "q2rdm6/web/q2rdm6.json",
+        "slug": "q2rdm6",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm7",
+        "map_root": "q2rdm7",
+        "metadata": "q2rdm7/web/q2rdm7.json",
+        "slug": "q2rdm7",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm8",
+        "map_root": "q2rdm8",
+        "metadata": "q2rdm8/web/q2rdm8.json",
+        "slug": "q2rdm8",
+        "available": false
+      },
+      {
+        "map_name": "q2rdm9",
+        "map_root": "q2rdm9",
+        "metadata": "q2rdm9/web/q2rdm9.json",
+        "slug": "q2rdm9",
+        "available": false
+      }
+    ],
+    "root_folder": "q2rdm"
+  },
+  "paths": {
+    "root": "q2rdm/",
+    "web": "q2rdm/web/",
+    "metadata": "q2rdm/web/q2rdm.json",
+    "pack": "q2rdm/pack/",
+    "maps_dir": "q2rdm/pack/maps/",
+    "docs_dir": "q2rdm/pack/docs/",
+    "demos_dir": "q2rdm/pack/demos/",
+    "routes_dir": "q2rdm/pack/routes/",
+    "screenshots_dir": "q2rdm/web/screenshots/"
+  },
+  "urls": {
+    "root": "q2rdm/",
+    "web": "q2rdm/web/",
+    "metadata": "q2rdm/web/q2rdm.json",
+    "pack": "q2rdm/pack/",
+    "maps_dir": "q2rdm/pack/maps/",
+    "docs_dir": "q2rdm/pack/docs/",
+    "demos_dir": "q2rdm/pack/demos/",
+    "routes_dir": "q2rdm/pack/routes/",
+    "screenshots_dir": "q2rdm/web/screenshots/"
+  },
+  "distribution": {
+    "bundle": {
+      "format": "zip",
+      "source_dir": "q2rdm/pack",
+      "filename": "q2rdm.zip"
+    }
+  },
+  "grouping_considerations": [
+    "Keep all maps under the pack root folder.",
+    "Store shared assets in pack folders (env, sound, textures).",
+    "Store readmes in pack/docs and prefix with the map name when needed."
+  ],
+  "source": {
+    "directories": [
+      ".",
+      "q2pduel/maps",
+      "q2rdm13"
+    ],
+    "detection_reasons": [
+      "Prefix pattern match: ^q2rdm\\d+\\w*$"
+    ]
+  }
+}

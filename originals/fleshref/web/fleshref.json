@@ -1,0 +1,200 @@
+{
+  "schema_version": "1.2",
+  "identity": {
+    "id": "fleshref",
+    "slug": "fleshref",
+    "root": "fleshref",
+    "layout": "map",
+    "url_root": "fleshref/"
+  },
+  "content": {
+    "type": "map",
+    "game": {
+      "id": "quake2",
+      "title": "Quake II",
+      "rerelease": false
+    }
+  },
+  "contributors": {
+    "authors": [
+      {
+        "id": "chris-musashi-walker",
+        "name": "Chris \"Musashi\" Walker"
+      }
+    ],
+    "author_ids": [
+      "chris-musashi-walker"
+    ]
+  },
+  "map_info": {
+    "file_name": "fleshref.bsp",
+    "map_name": "fleshref",
+    "long_name": "THE FLESH REFINERY",
+    "authors": [
+      "Chris \"Musashi\" Walker"
+    ],
+    "release_year": 2001,
+    "release_date": "2001-02-13",
+    "description": null,
+    "release_date_utc": "2001-02-13T07:52:54Z",
+    "release_date_source": "bsp_mtime"
+  },
+  "gameplay": {
+    "recommended_players": {
+      "min": 4,
+      "max": 8
+    },
+    "game_modes": {
+      "deathmatch": true,
+      "team_deathmatch": false,
+      "ctf": false,
+      "campaign": false,
+      "coop": false
+    },
+    "bot_support": {
+      "aas": true,
+      "routes": false
+    }
+  },
+  "assets": {
+    "custom_env": false,
+    "custom_sounds": false,
+    "custom_textures": true,
+    "env_name": null,
+    "custom_sound_count": 0,
+    "custom_texture_count": 1
+  },
+  "entities": {
+    "spawn_points": {
+      "deathmatch": 8,
+      "team_red": 0,
+      "team_blue": 0,
+      "campaign_start": 1,
+      "coop": 0,
+      "intermission": 1
+    },
+    "objectives": {
+      "red_flag": 0,
+      "blue_flag": 0,
+      "changelevel": 0,
+      "secret": 0
+    },
+    "weapons": {
+      "blaster": 0,
+      "shotgun": 0,
+      "super_shotgun": 1,
+      "machinegun": 0,
+      "chaingun": 0,
+      "grenade_launcher": 1,
+      "rocket_launcher": 1,
+      "hyperblaster": 1,
+      "railgun": 1,
+      "bfg10k": 0
+    },
+    "powerups": {
+      "quad_damage": 0,
+      "invulnerability": 0,
+      "power_shield": 0,
+      "power_screen": 1,
+      "invisibility": 0,
+      "silencer": 0,
+      "rebreather": 0,
+      "enviro_suit": 0,
+      "bandolier": 0,
+      "pack": 1,
+      "adrenaline": 1,
+      "ancient_head": 0,
+      "mega_health": 1
+    },
+    "monsters": {
+      "has_monsters": false,
+      "total_count": 0
+    },
+    "all_entities": {
+      "worldspawn": 1,
+      "func_plat": 2,
+      "func_wall": 12,
+      "func_timer": 3,
+      "item_health": 7,
+      "light": 119,
+      "misc_teleporter_dest": 1,
+      "info_player_intermission": 1,
+      "target_speaker": 45,
+      "info_player_deathmatch": 8,
+      "item_armor_combat": 1,
+      "item_health_large": 3,
+      "ammo_cells": 3,
+      "item_adrenaline": 1,
+      "item_health_small": 6,
+      "item_armor_jacket": 1,
+      "weapon_chaingun": 2,
+      "misc_teleporter": 1,
+      "ammo_rockets": 5,
+      "ammo_bullets": 8,
+      "ammo_grenades": 4,
+      "weapon_grenadelauncher": 1,
+      "weapon_hyperblaster": 1,
+      "weapon_railgun": 1,
+      "item_health_mega": 1,
+      "weapon_supershotgun": 1,
+      "item_pack": 1,
+      "weapon_rocketlauncher": 1,
+      "item_power_screen": 1,
+      "info_player_start": 1,
+      "item_armor_shard": 5,
+      "ammo_shells": 4,
+      "ammo_slugs": 2
+    }
+  },
+  "technical": {
+    "bsp_version": 38,
+    "has_ent_file": false,
+    "has_map_file": false,
+    "has_demos": false,
+    "file_size_bytes": 709896,
+    "checksum_md5": "23c6d2dbfb55ea5e75dea815f6c7dac5"
+  },
+  "web": {
+    "has_readme": true,
+    "has_screenshots": false,
+    "screenshot_count": 0
+  },
+  "paths": {
+    "root": "fleshref/",
+    "web": "fleshref/web/",
+    "metadata": "fleshref/web/fleshref.json",
+    "pack": "fleshref/pack/",
+    "maps_dir": "fleshref/pack/maps/",
+    "docs_dir": "fleshref/pack/docs/",
+    "demos_dir": "fleshref/pack/demos/",
+    "routes_dir": "fleshref/pack/routes/",
+    "screenshots_dir": "fleshref/web/screenshots/",
+    "bsp": "fleshref/pack/maps/fleshref.bsp",
+    "readme": "fleshref/pack/docs/fleshref-readme.txt"
+  },
+  "urls": {
+    "root": "fleshref/",
+    "web": "fleshref/web/",
+    "metadata": "fleshref/web/fleshref.json",
+    "pack": "fleshref/pack/",
+    "maps_dir": "fleshref/pack/maps/",
+    "docs_dir": "fleshref/pack/docs/",
+    "demos_dir": "fleshref/pack/demos/",
+    "routes_dir": "fleshref/pack/routes/",
+    "screenshots_dir": "fleshref/web/screenshots/",
+    "bsp": "fleshref/pack/maps/fleshref.bsp",
+    "readme": "fleshref/pack/docs/fleshref-readme.txt"
+  },
+  "distribution": {
+    "bundle": {
+      "format": "zip",
+      "source_dir": "fleshref/pack",
+      "filename": "fleshref.zip"
+    }
+  },
+  "pack": {
+    "name": null,
+    "root": null,
+    "metadata": null
+  }
+}

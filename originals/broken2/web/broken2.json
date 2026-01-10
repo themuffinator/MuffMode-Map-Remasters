@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.2",
+  "identity": {
+    "id": "broken2",
+    "slug": "broken2",
+    "root": "broken2",
+    "layout": "map",
+    "url_root": "broken2/"
+  },
+  "content": {
+    "type": "map",
+    "game": {
+      "id": "quake2",
+      "title": "Quake II",
+      "rerelease": false
+    }
+  },
+  "contributors": {
+    "authors": [
+      {
+        "id": "phil-chopp-retinal",
+        "name": "Phil Chopp'ReTinaL"
+      }
+    ],
+    "author_ids": [
+      "phil-chopp-retinal"
+    ]
+  },
+  "map_info": {
+    "file_name": "broken2.bsp",
+    "map_name": "broken2",
+    "long_name": "Mortal Coil",
+    "authors": [
+      "Phil Chopp'ReTinaL"
+    ],
+    "release_year": 1998,
+    "release_date": "1998-04-23T16:03:54",
+    "description": null,
+    "release_date_utc": "1998-04-23T15:03:54Z",
+    "release_date_source": "bsp_mtime"
+  },
+  "gameplay": {
+    "recommended_players": {
+      "min": 4,
+      "max": 8
+    },
+    "game_modes": {
+      "deathmatch": true,
+      "team_deathmatch": false,
+      "ctf": false,
+      "campaign": false,
+      "coop": false
+    },
+    "bot_support": {
+      "aas": false,
+      "routes": false
+    }
+  },
+  "assets": {
+    "custom_env": false,
+    "custom_sounds": false,
+    "custom_textures": false,
+    "env_name": null,
+    "custom_sound_count": 0,
+    "custom_texture_count": 0
+  },
+  "entities": {
+    "spawn_points": {
+      "deathmatch": 8,
+      "team_red": 0,
+      "team_blue": 0,
+      "campaign_start": 1,
+      "coop": 0,
+      "intermission": 3
+    },
+    "objectives": {
+      "red_flag": 0,
+      "blue_flag": 0,
+      "changelevel": 0,
+      "secret": 0
+    },
+    "weapons": {
+      "blaster": 0,
+      "shotgun": 0,
+      "super_shotgun": 1,
+      "machinegun": 0,
+      "chaingun": 0,
+      "grenade_launcher": 1,
+      "rocket_launcher": 1,
+      "hyperblaster": 1,
+      "railgun": 1,
+      "bfg10k": 0
+    },
+    "powerups": {
+      "quad_damage": 1,
+      "invulnerability": 0,
+      "power_shield": 0,
+      "power_screen": 0,
+      "invisibility": 0,
+      "silencer": 0,
+      "rebreather": 0,
+      "enviro_suit": 0,
+      "bandolier": 0,
+      "pack": 0,
+      "adrenaline": 1,
+      "ancient_head": 0,
+      "mega_health": 0
+    },
+    "monsters": {
+      "has_monsters": false,
+      "total_count": 0
+    },
+    "all_entities": {
+      "worldspawn": 1,
+      "info_player_start": 1,
+      "light": 111,
+      "info_notnull": 6,
+      "info_null": 34,
+      "item_quad": 1,
+      "weapon_grenadelauncher": 1,
+      "weapon_rocketlauncher": 1,
+      "item_armor_combat": 2,
+      "weapon_supershotgun": 1,
+      "weapon_railgun": 1,
+      "weapon_chaingun": 1,
+      "weapon_hyperblaster": 1,
+      "item_adrenaline": 1,
+      "ammo_grenades": 3,
+      "info_player_intermission": 3,
+      "target_speaker": 8,
+      "ammo_shells": 2,
+      "ammo_rockets": 1,
+      "ammo_slugs": 1,
+      "ammo_bullets": 5,
+      "ammo_cells": 3,
+      "item_armor_shard": 4,
+      "item_health": 4,
+      "item_health_large": 2,
+      "info_player_deathmatch": 8,
+      "func_plat": 2
+    }
+  },
+  "technical": {
+    "bsp_version": 38,
+    "has_ent_file": false,
+    "has_map_file": false,
+    "has_demos": false,
+    "file_size_bytes": 391044,
+    "checksum_md5": "16d87293488db9b53991194bac78bd83"
+  },
+  "web": {
+    "has_readme": true,
+    "has_screenshots": false,
+    "screenshot_count": 0
+  },
+  "paths": {
+    "root": "broken2/",
+    "web": "broken2/web/",
+    "metadata": "broken2/web/broken2.json",
+    "pack": "broken2/pack/",
+    "maps_dir": "broken2/pack/maps/",
+    "docs_dir": "broken2/pack/docs/",
+    "demos_dir": "broken2/pack/demos/",
+    "routes_dir": "broken2/pack/routes/",
+    "screenshots_dir": "broken2/web/screenshots/",
+    "bsp": "broken2/pack/maps/broken2.bsp",
+    "readme": "broken2/pack/docs/broken2-readme.txt"
+  },
+  "urls": {
+    "root": "broken2/",
+    "web": "broken2/web/",
+    "metadata": "broken2/web/broken2.json",
+    "pack": "broken2/pack/",
+    "maps_dir": "broken2/pack/maps/",
+    "docs_dir": "broken2/pack/docs/",
+    "demos_dir": "broken2/pack/demos/",
+    "routes_dir": "broken2/pack/routes/",
+    "screenshots_dir": "broken2/web/screenshots/",
+    "bsp": "broken2/pack/maps/broken2.bsp",
+    "readme": "broken2/pack/docs/broken2-readme.txt"
+  },
+  "distribution": {
+    "bundle": {
+      "format": "zip",
+      "source_dir": "broken2/pack",
+      "filename": "broken2.zip"
+    }
+  },
+  "pack": {
+    "name": null,
+    "root": null,
+    "metadata": null
+  }
+}
