@@ -15,7 +15,7 @@ MuffMode Map Remasters is a collection of remastered Quake II maps. The repo is 
 
 ## Final map list
 
-See `docs/final-map-overview.md` for the current list of final maps, screenshots, and notes.
+See [docs/final-map-overview.md](docs/final-map-overview.md) for the current list of final maps, screenshots, and notes.
 
 ## Install (manual)
 
