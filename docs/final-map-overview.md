@@ -6,7 +6,7 @@ release posts. Levelshots reference the first image in `media/` when available. 
 maps are intended for the latest version of [Muff Mode](https://github.com/themuffinator/muffmode).
 
 ## Aerowalk (`mm-aerow`)
-_Levelshot pending (see TODO.md)._
+![Aerowalk](../media/mm-aerow-1.png)
 - Modes / players: Small Duel/FFA map for 2-4 players.
 - Notes: One of the most popular duel maps across the Quake franchise.
 - Original author: Mattias "Preacher" Konradsson.
@@ -38,7 +38,7 @@ _Levelshot pending (see TODO.md)._
 - Original map names: `ven_dm2`.
 
 ## Degeneration (`mm-degen`)
-_Levelshot pending (see TODO.md)._
+![Degeneration](../media/mm-degen-1.png)
 - Modes / players: Medium FFA map for 4-8 players.
 - Original author: Jaan-Madis "paradies" Uusvali.
 - Original release date: 14 June 1999.
@@ -53,7 +53,7 @@ _Levelshot pending (see TODO.md)._
 - Original website: https://web.archive.org/web/20021213230850/http://www.planetquake.com/musashi/
 
 ## Grind (`mm-grind`)
-_Levelshot pending (see TODO.md)._
+![Grind](../media/mm-grind-1.png)
 - Modes / players: Small Duel/FFA map for 2-6 players.
 - Original author: Dennis "headshot" Kaltwasser.
 - Original release date: 17 March 1998.
@@ -93,7 +93,7 @@ _Levelshot pending (see TODO.md)._
 - Original map names: Unknown.
 
 ## Mortal Coil (`mm-mcoil`)
-_Levelshot pending (see TODO.md)._
+![Mortal Coil](../media/mm-mcoil-1.png)
 - Modes / players: Tiny Duel/FFA map for 2-4 players.
 - Original author: Phil "Retinal" Chopp.
 - Original release date: 24 April 1998.
@@ -126,7 +126,7 @@ _Levelshot pending (see TODO.md)._
 - Official pack: Quake II Netpack I: Extremities (https://archive.org/details/QuakeIINetpackIExtremitiesUSAEurope).
 
 ## The Rage (`mm-rage`)
-_Levelshot pending (see TODO.md)._
+![The Rage](../media/mm-rage-1.png)
 - Modes / players: Duel/FFA/2v2 map for 2-8 players.
 - Notes: Hugely popular duel map from an acclaimed designer.
 - Original author: Sten "ztn" Uusvali.
@@ -143,14 +143,14 @@ _Levelshot pending (see TODO.md)._
 - Original map names: `2box4`.
 
 ## Reclamation (`mm-reclam`)
-_Levelshot pending (see TODO.md)._
+![Reclamation](../media/mm-reclam-1.png)
 - Modes / players: Small Duel/FFA map for 2-4 players.
 - Original author: Corey "Kamarov" Peters.
 - Original release date: 4 March 1999.
 - Original map names: `kamq2dm1`, `q2rdm7`.
 
 ## Thunderstruck (`mm-thunders`)
-_Levelshot pending (see TODO.md)._
+![Thunderstruck](../media/mm-thunders-1.png)
 - Modes / players: Small CA/FFA/Duel map.
 - Notes: Originally released as part of the first official map set in Rocket Arena 3,
   later adopted in Quake Live. Popular choice for 1v1 RA matches.
@@ -173,7 +173,7 @@ _Levelshot pending (see TODO.md)._
 - Original map names: Unknown.
 
 ## Wicked (`mm-wicked`)
-_Levelshot pending (see TODO.md)._
+![Wicked](../media/mm-wicked-1.png)
 - Modes / players: Small Duel/FFA map for 2-4 players.
 - Notes: Originally released as one of the first official maps for Challenge ProMode
   Arena (CPMA), later added to Quake Live.
