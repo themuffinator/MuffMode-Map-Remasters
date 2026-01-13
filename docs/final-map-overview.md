@@ -10,6 +10,8 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 <img src='../media/mm-aerow-2.png' width='25%' alt='Aerowalk levelshot 2'> <img src='../media/mm-aerow-3.png' width='25%' alt='Aerowalk levelshot 3'> <img src='../media/mm-aerow-4.png' width='25%' alt='Aerowalk levelshot 4'> <img src='../media/mm-aerow-5.png' width='25%' alt='Aerowalk levelshot 5'> <img src='../media/mm-aerow-6.png' width='25%' alt='Aerowalk levelshot 6'>
 - Modes / players: Small Duel/FFA map for 2-4 players.
 - Notes: One of the most popular duel maps across the Quake franchise.
+- Readme notes: Built with 1-on-1 in mind, with an intermission camera and no exit.
+- Original tools: WorldCraft with ArghRad lighting; includes custom textures.
 - Original author: Mattias "Preacher" Konradsson.
 - Original release date: 11 April 1998.
 - Original map names: `aeroq2`, `aerowalk`.
@@ -18,6 +20,7 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 ![Bio Rust](../media/mm-biorust-1.png)
 <img src='../media/mm-biorust-2.png' width='25%' alt='Bio Rust levelshot 2'> <img src='../media/mm-biorust-3.png' width='25%' alt='Bio Rust levelshot 3'> <img src='../media/mm-biorust-4.png' width='25%' alt='Bio Rust levelshot 4'> <img src='../media/mm-biorust-5.png' width='25%' alt='Bio Rust levelshot 5'> <img src='../media/mm-biorust-6.png' width='25%' alt='Bio Rust levelshot 6'> <img src='../media/mm-biorust-7.png' width='25%' alt='Bio Rust levelshot 7'> <img src='../media/mm-biorust-8.png' width='25%' alt='Bio Rust levelshot 8'> <img src='../media/mm-biorust-9.png' width='25%' alt='Bio Rust levelshot 9'>
 - Modes / players: Small Duel/FFA map for 2-4 players.
+- Notes: PlanetQuake listing calls it a small 1v1 duel map with fast-paced action.
 - Original author: "kold".
 - Original release date: 12 October 2008.
 - Original map names: `koldduel1`.
@@ -27,6 +30,8 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 ![The Crucible](../media/mm-crucible-1.png)
 <img src='../media/mm-crucible-2.png' width='25%' alt='The Crucible levelshot 2'> <img src='../media/mm-crucible-3.png' width='25%' alt='The Crucible levelshot 3'> <img src='../media/mm-crucible-4.png' width='25%' alt='The Crucible levelshot 4'> <img src='../media/mm-crucible-5.png' width='25%' alt='The Crucible levelshot 5'> <img src='../media/mm-crucible-6.png' width='25%' alt='The Crucible levelshot 6'> <img src='../media/mm-crucible-7.png' width='25%' alt='The Crucible levelshot 7'> <img src='../media/mm-crucible-8.png' width='25%' alt='The Crucible levelshot 8'>
 - Modes / players: Medium Duel/FFA map for 2-6 players.
+- Readme notes: Includes Eraser bot routes and 7 respawn spots.
+- Original tools: Worldcraft, QERadiant, ArghRad.
 - Original author: Sten "ztn" Uusvali.
 - Original release date: 6 September 1998.
 - Original map names: `ztn2dm5`.
@@ -37,6 +42,9 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 ![Cold Zero](../media/mm-czero-1.png)
 <img src='../media/mm-czero-2.png' width='25%' alt='Cold Zero levelshot 2'> <img src='../media/mm-czero-3.png' width='25%' alt='Cold Zero levelshot 3'> <img src='../media/mm-czero-4.png' width='25%' alt='Cold Zero levelshot 4'> <img src='../media/mm-czero-5.png' width='25%' alt='Cold Zero levelshot 5'> <img src='../media/mm-czero-6.png' width='25%' alt='Cold Zero levelshot 6'> <img src='../media/mm-czero-7.png' width='25%' alt='Cold Zero levelshot 7'>
 - Modes / players: FFA/2v2 map for 4-10 players.
+- Notes: PlanetQuake's Level of the Week writeup says it won the "Not Dead Yet!"
+  600-brush contest and compares it to Q2DM8; highlights two yellow armors,
+  adrenaline, and a hidden megahealth (no BFG).
 - Original author: Kev "Ven" Pritchard.
 - Original release date: 22 April 2001.
 - Original map names: `ven_dm2`.
@@ -45,6 +53,8 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 ![Degeneration](../media/mm-degen-1.png)
 <img src='../media/mm-degen-2.png' width='25%' alt='Degeneration levelshot 2'> <img src='../media/mm-degen-3.png' width='25%' alt='Degeneration levelshot 3'> <img src='../media/mm-degen-4.png' width='25%' alt='Degeneration levelshot 4'> <img src='../media/mm-degen-5.png' width='25%' alt='Degeneration levelshot 5'> <img src='../media/mm-degen-6.png' width='25%' alt='Degeneration levelshot 6'> <img src='../media/mm-degen-7.png' width='25%' alt='Degeneration levelshot 7'>
 - Modes / players: Medium FFA map for 4-8 players.
+- Notes: PlanetQuake Level of the Week called it a standout map and praised its
+  textures and lighting.
 - Original author: Jaan-Madis "paradies" Uusvali.
 - Original release date: 14 June 1999.
 - Original map names: `paradm4`.
@@ -53,6 +63,10 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 ![The Flesh Refinery](../media/mm-fleshref-1.png)
 <img src='../media/mm-fleshref-2.png' width='25%' alt='The Flesh Refinery levelshot 2'> <img src='../media/mm-fleshref-3.png' width='25%' alt='The Flesh Refinery levelshot 3'> <img src='../media/mm-fleshref-4.png' width='25%' alt='The Flesh Refinery levelshot 4'> <img src='../media/mm-fleshref-5.png' width='25%' alt='The Flesh Refinery levelshot 5'> <img src='../media/mm-fleshref-6.png' width='25%' alt='The Flesh Refinery levelshot 6'> <img src='../media/mm-fleshref-7.png' width='25%' alt='The Flesh Refinery levelshot 7'>
 - Modes / players: Duel/FFA/TDM map for 2-4 players.
+- Readme notes: Small tourney layout mixing long corridors with close-quarters;
+  Gladiator bot-friendly.
+- Gameplay note: Includes a Power Screen (front-facing shield); bind
+  `use power screen`.
 - Original author: Chris "Musashi" Walker.
 - Original release date: 13 February 2001.
 - Original map names: `fleshref`, `q2rdm1`.
@@ -62,6 +76,9 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 ![Grind](../media/mm-grind-1.png)
 <img src='../media/mm-grind-2.png' width='25%' alt='Grind levelshot 2'> <img src='../media/mm-grind-3.png' width='25%' alt='Grind levelshot 3'> <img src='../media/mm-grind-4.png' width='25%' alt='Grind levelshot 4'> <img src='../media/mm-grind-6.png' width='25%' alt='Grind levelshot 6'> <img src='../media/mm-grind-7.png' width='25%' alt='Grind levelshot 7'>
 - Modes / players: Small Duel/FFA map for 2-6 players.
+- Readme notes: Inspired by danimal's "guns and ammo"; recommends weapons stay
+  for 5+ players and 2-on-2.
+- Secret: Mega health hidden behind the atrium door (button or shoot to open).
 - Original author: Dennis "headshot" Kaltwasser.
 - Original release date: 17 March 1998.
 - Original map names: `grind`, `q2duel2`.
@@ -80,6 +97,8 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 - Modes / players: Duel/FFA/2v2 map for 2-8 players.
 - Notes: Second Quake II map released by ztn; later refined as `kmachine` with slightly
   enhanced gameplay based on contemporaneous feedback.
+- Readme notes: Built over about one month, with 6 respawn spots.
+- Tip: `sky space1` swaps the surrounding sky motif.
 - Original author: Sten "ztn" Uusvali.
 - Original release date: 22 March 1998.
 - Original map names: `ztn2dm2`, `kmachine`.
@@ -107,6 +126,8 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 ![Mortal Coil](../media/mm-mcoil-1.png)
 <img src='../media/mm-mcoil-2.png' width='25%' alt='Mortal Coil levelshot 2'> <img src='../media/mm-mcoil-3.png' width='25%' alt='Mortal Coil levelshot 3'> <img src='../media/mm-mcoil-4.png' width='25%' alt='Mortal Coil levelshot 4'> <img src='../media/mm-mcoil-5.png' width='25%' alt='Mortal Coil levelshot 5'>
 - Modes / players: Tiny Duel/FFA map for 2-4 players.
+- Readme notes: Intended for 1-on-1, with 6 deathmatch starts; lighting was done
+  without GLQuake.
 - Original author: Phil "Retinal" Chopp.
 - Original release date: 24 April 1998.
 - Original map names: `broken2`, `q2duel5`.
@@ -115,6 +136,7 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 ![Negative Impulse](../media/mm-negimp-1.png)
 <img src='../media/mm-negimp-2.png' width='25%' alt='Negative Impulse levelshot 2'> <img src='../media/mm-negimp-3.png' width='25%' alt='Negative Impulse levelshot 3'> <img src='../media/mm-negimp-4.png' width='25%' alt='Negative Impulse levelshot 4'> <img src='../media/mm-negimp-5.png' width='25%' alt='Negative Impulse levelshot 5'> <img src='../media/mm-negimp-6.png' width='25%' alt='Negative Impulse levelshot 6'> <img src='../media/mm-negimp-7.png' width='25%' alt='Negative Impulse levelshot 7'> <img src='../media/mm-negimp-8.png' width='25%' alt='Negative Impulse levelshot 8'>
 - Modes / players: Medium-sized FFA/TDM map for 4-10 players.
+- Notes: PlanetQuake listing describes it as a 2-4 player deathmatch map.
 - Original author: "-VooDoo6-".
 - Original release date: Unknown.
 - Original map names: `vd6dm2`.
@@ -134,8 +156,9 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 - Notes: Originally released for Quake as `ztndm5`, later rebuilt and ported to Quake II
   by the original author. Later refreshed for Painkiller II with refined geometry and
   slight item layout changes.
+- Readme notes: Suited for 1-on-1 play, with 5 respawn spots; built in about two weeks.
 - Original author: Sten "ztn" Uusvali.
-- Original release date: Unknown.
+- Original release date: 22 January 1998.
 - Original map names: `ztn2dm1`, `painklr2`.
 - Original website: https://web.archive.org/web/20031207144349/http://www.planetquake.com/ztn/
 - Official pack: Quake II Netpack I: Extremities (https://archive.org/details/QuakeIINetpackIExtremitiesUSAEurope).
@@ -145,6 +168,7 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 <img src='../media/mm-rage-2.png' width='25%' alt='The Rage levelshot 2'> <img src='../media/mm-rage-3.png' width='25%' alt='The Rage levelshot 3'> <img src='../media/mm-rage-4.png' width='25%' alt='The Rage levelshot 4'> <img src='../media/mm-rage-5.png' width='25%' alt='The Rage levelshot 5'> <img src='../media/mm-rage-6.png' width='25%' alt='The Rage levelshot 6'> <img src='../media/mm-rage-7.png' width='25%' alt='The Rage levelshot 7'> <img src='../media/mm-rage-8.png' width='25%' alt='The Rage levelshot 8'> <img src='../media/mm-rage-9.png' width='25%' alt='The Rage levelshot 9'>
 - Modes / players: Duel/FFA/2v2 map for 2-8 players.
 - Notes: Hugely popular duel map from an acclaimed designer.
+- Readme notes: 7 respawn spots; built over about two weeks.
 - Original author: Sten "ztn" Uusvali.
 - Original release date: 10 April 1998.
 - Original map names: `ztn2dm3`, `q2duel8`.
@@ -155,6 +179,8 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 ![Railgun 101](../media/mm-rail101-1.png)
 <img src='../media/mm-rail101-2.png' width='25%' alt='Railgun 101 levelshot 2'> <img src='../media/mm-rail101-3.png' width='25%' alt='Railgun 101 levelshot 3'> <img src='../media/mm-rail101-4.png' width='25%' alt='Railgun 101 levelshot 4'> <img src='../media/mm-rail101-5.png' width='25%' alt='Railgun 101 levelshot 5'>
 - Modes / players: Tiny railgun practice map for 2-6 players.
+- Readme notes: Recommends `dmflags 33812` (fixed FOV, random spawns, weapons stay,
+  forced respawn); built in about an hour.
 - Original author: Thai "Swansong" Pham.
 - Original release date: 23 May 1998.
 - Original map names: `2box4`.
@@ -191,8 +217,10 @@ maps are intended for the latest version of [Muff Mode](https://github.com/themu
 - Modes / players: Small Duel/FFA map for 2-4 players.
 - Notes: Originally released as one of the first official maps for Challenge ProMode
   Arena (CPMA), later added to Quake Live.
-- Original author: FxR|jude.
-- Original release date: 28 August 2000.
+- Readme notes: Started as a Quake II FFA layout before conversion to a Q3 duel map;
+  Decker retextured the map.
+- Original author: FxR|jude and Decker.
+- Original release date: 3 January 2000 (re-released 23 October 2000).
 - Original map names: `cpm1a`, `wicked`.
 
 ## Window Pain (`mm-winpain`)
